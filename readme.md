@@ -53,3 +53,31 @@ name: cxcixx
 reason: scammer
 
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367334620114190417
+
+notes: djinzi banned them
+
+# 750259450039763074:
+
+username: realzoeygreen
+
+reason: Repeated warnings for violating rule 1a and still not improving
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367101553223274577
+
+notes: they said, and i qoute: "i saw someone actually fuck a baconator from wendy's and i dont know how to feel. if
+it was Arby's i'd say "We got the meat""
+
+# 1198027474257318040:
+
+reason: Your closet is made of glass and denial is a river in egypt, you are GAY
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366857920142250076
+
+notes: was banned by crystal (.accela). can't find what they said, but i think there were being homophobic.
+more info: https://discord.com/channels/399812551963049995/983523474914045962/1366857890425737259
+
+# 1262109036006866945:
+
+reason: clearly doesnt wanna cooperate. byebye. NSFW in dms of a user
+
+notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal
