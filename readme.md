@@ -23,6 +23,8 @@ notes: actual homophobe: https://discord.com/channels/399812551963049995/3998128
 
 username: estebanipro#0000
 
+reason: more steam gift card scams
+
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367598828932300982
 
 notes: banned by djinzi herself
