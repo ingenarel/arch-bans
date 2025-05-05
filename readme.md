@@ -103,3 +103,38 @@ reason: Suspecious scam artist account according to Wick(if you are a real user,
 notes: can't find chats. name shows unknown, if this is the same Wick that ik, idk if i should contact them or not. if i
 search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ticket, not someone named wick, could be
 that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
+
+# 876789879638466581:
+
+username: u9nine#0000
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366438432275959891
+
+reason: homophobiam see ticket 3383
+
+notes: original msg got deleted, but i did saw this text that probably mentions about this, by the username of cope:
+```
+>comes in 
+
+> first words spoken: ANAL PLUGS!
+
+> what did @9x mean by this
+```
+link: https://discord.com/channels/399812551963049995/848349994082893884/1366437940632490004
+
+istg this shit is just too funny
+
+# 1331752799758843915:
+
+username: .killax.#0000
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366254870285516821
+
+notes: was banned by djinzi, buuut i mean i don't think they were a help vampire. yes i'm aware that user said this:
+```
+I did, now either help or shut up -_-
+The Arch Installer server is dead asf
+```
+
+could be just a rude idiot, buuut still permaban idk, still included it just in case user was a bitch. also i think it
+was funnnnnyyyyyyyy
