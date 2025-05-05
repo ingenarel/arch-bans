@@ -78,6 +78,8 @@ more info: https://discord.com/channels/399812551963049995/983523474914045962/13
 
 # 1262109036006866945:
 
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366838830962839764
+
 reason: clearly doesnt wanna cooperate. byebye. NSFW in dms of a user
 
 notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal
@@ -85,6 +87,8 @@ notes: seems to send servermates nsfw stuff in dms, was banned and muted by crys
 # 479287530118840320:
 
 username: .shadownyx#0000
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366570332357525575
 
 reason: unsolicited NSFW in someone elses dms
 
