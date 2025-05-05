@@ -163,3 +163,32 @@ reason: Racist
 
 notes: can't find shit for some reason, i even did a discord id lookup but the account seemed okay. still put it here
 just in case. double checking would be good, or just keep an eye if they pop in. epic username tho
+
+# 366081970356224001:
+
+username: worstplaceonthenet
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365297310635917333
+
+reason: Followup to 3369
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365296933194698762
+
+reason: Troll(see 3369)
+
+notes: first of all, how the fuck do you get permabanned twice? second of all, it was done by crystal, fourth of all,
+their original texts got deleted, see:
+https://discord.com/channels/399812551963049995/399812849318232095/1365285290855366696 and
+https://discord.com/channels/399812551963049995/399813125014159360/1365288548265234482 for more info
+
+# 1359524939689889822: 
+
+username: mike9570
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365131775730389015
+
+reason: troll+slurs in bio
+
+notes: user only send 2 texts in server, got spawncamped later lol
+
+
