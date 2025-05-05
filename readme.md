@@ -191,4 +191,15 @@ reason: troll+slurs in bio
 
 notes: user only send 2 texts in server, got spawncamped later lol
 
+# 793822600006467594:
 
+username: kingjr4678
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364747554570633228
+
+reason: nsfw pfp/status
+
+nots: seems like a new user that was getting help and wasn't disrupting shit, BUT djinzi made the ban, altho i think
+that permaban was harsh. since i couldn't find any records of a warning (yes i've seen mods give a warning first in case
+of situations like this, and yes i think a warning should be given first). but i still included cz djinzi might have a
+serious reason.
