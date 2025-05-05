@@ -81,3 +81,21 @@ more info: https://discord.com/channels/399812551963049995/983523474914045962/13
 reason: clearly doesnt wanna cooperate. byebye. NSFW in dms of a user
 
 notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal
+
+# 479287530118840320:
+
+username: .shadownyx#0000
+
+reason: unsolicited NSFW in someone elses dms
+
+notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal (two nsfw dm people caught by
+crystal in a row lmfao) user did seems normal from their recent convo, but in on msg, they said, "IT WAS A MISSINPUT
+MISSINPUT CALM DOWN", i assume they send something shady, and later deleted it. link: https://discord.com/channels/399812551963049995/983523474914045962/1366528889798656083
+
+# 1365468507357319208:
+
+reason: Suspecious scam artist account according to Wick(if you are a real user, please contact @ⵣ Crystal ⵣ)
+
+notes: can't find chats. name shows unknown, if this is the same Wick that ik, idk if i should contact them or not. if i
+search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ticket, not someone named wick, could be
+that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
