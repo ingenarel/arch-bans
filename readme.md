@@ -1,6 +1,6 @@
 # i have not included all the bans here, just the ones that actually made sense to me. i may be wrong, then again, i'm only human
 
-reason is copy pasted from the official ban reason. if i can find the username, in include it, i also include notes most
+reason is copy pasted from the official ban reason. if i can find the username, i include it, i also include notes most
 of the time.
 
 people that are still in alc, or have alts, i would appriciate if i got extra help, since i'm an one man army
