@@ -1,5 +1,8 @@
 # i have not included all the bans here, just the ones that actually made sense to me. i may be wrong, then again, i'm only human
 
+reason is copy pasted from the official ban reason. if i can find the username, in include it, i also include notes most
+of the time.
+
 # 1325146520709890068
 username: bopaya
 
