@@ -138,3 +138,26 @@ The Arch Installer server is dead asf
 
 could be just a rude idiot, buuut still permaban idk, still included it just in case user was a bitch. also i think it
 was funnnnnyyyyyyyy
+
+# 1358334109449191545:
+
+username: noxy23151213
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366064163767451728
+
+reason: NSFW troll (see 3377)
+
+notes: seems to done by crystal. couldn't find the texts, but it WAS done by crystal, soooo yeah ig. i would still
+personally recheck tho cz i haven't seen proof with my own to eyes. double checking would be good, or just keep an eye
+if they pop in
+
+# 1288493060761587714: 
+
+username: rizzler0913#0000
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365763036987785236
+
+reason: Racist
+
+notes: can't find shit for some reason, i even did a discord id lookup but the account seemed okay. still put it here
+just in case. double checking would be good, or just keep an eye if they pop in. epic username tho
