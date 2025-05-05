@@ -249,4 +249,59 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1363
 
 notes: djinzi ban; more info: https://discord.com/channels/399812551963049995/983523474914045962/1363992785316745268
 
+# 234753285418909706:
 
+username: 5cx
+
+reason: Bigot
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363928199091847411
+
+notes: can confirm; djinzi ban; more info link: https://discord.com/channels/399812551963049995/399812849318232095/1363928168326762677
+
+# 1361394101873938553:
+
+username: asdadasda2222222sd
+
+reason: Help vampire. Read the wiki instead.
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363923458769027113
+
+notes: omg i saw the texts. even dracula would be like, "you need to chill out". constant pinging people, constant
+irritating behaviour, they would make the whole support team go mad in 2 minutes, more info:
+https://discord.com/channels/399812551963049995/1363863890517299350/1363910587456684515
+
+
+# 1363553312766689385:
+
+username: williamleonard637_99998
+
+reason: Ignoring the rules / spamming inappropriate content.
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363842004735234168
+
+notes: gravitos ban, user seems to have texted shitty stuff, so user by `Arko` seemed to have pinged mods, then ban.
+more info: https://discord.com/channels/399812551963049995/983523474914045962/1363842003204575423
+
+# 663576630945513493:
+
+username: wosoy
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363778055990149130
+
+reason: Refused to talk to mods after being muted for weeks. Initially saw exhibiting bot behavior, typing in multiple
+channels at the same time, did not elaborate when questioned.
+
+notes: can't find chats, but i'll be dammed if they ain't a bot, altho i did a id lookup, and it shows that they weren't
+flagged as a bot or a spammer yet. moreinfo: https://discordlookup.com/user/663576630945513493
+
+# 1316034076901244931:
+
+username: adam_john_tressing
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363688935439601725
+
+reason: spam/advertising weird shit
+
+notes: seems to have creeped people out, including `wasd` and `jorgen_10`. more info:
+https://discord.com/channels/399812551963049995/399812849318232095/1363688896344363019
