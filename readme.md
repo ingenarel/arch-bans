@@ -3,6 +3,8 @@
 reason is copy pasted from the official ban reason. if i can find the username, in include it, i also include notes most
 of the time.
 
+people that are still in alc, or have alts, i would appriciate if i got extra help, since i'm an one man army
+
 # 1325146520709890068
 username: bopaya
 
