@@ -30,3 +30,23 @@ reason: more steam gift card scams
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367598828932300982
 
 notes: banned by djinzi herself
+
+# 1087208997662240830:
+
+name: com.reb
+
+reason: Salty + antipluralism, check xkcd 1357
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367585449953984553
+
+notes: user might just be a hot headed idiot, but djinzi muted them:
+https://discord.com/channels/399812551963049995/848349994082893884/1367577920163549214 for that reason, later got
+banned 
+
+# 1302084801720881276:
+
+name: cxcixx
+
+reason: scammer
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367334620114190417
