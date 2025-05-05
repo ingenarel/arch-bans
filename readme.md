@@ -203,3 +203,23 @@ nots: seems like a new user that was getting help and wasn't disrupting shit, BU
 that permaban was harsh. since i couldn't find any records of a warning (yes i've seen mods give a warning first in case
 of situations like this, and yes i think a warning should be given first). but i still included cz djinzi might have a
 serious reason.
+
+# 785236207155937311:
+
+username: planetryan
+
+reason: Posted a scrolling tiktok video in ⁠urandom that contained nazi memes of george floyd superimposed onto hitler and also contained vague nsfw and antisemitism.
+
+notes: djinzi warned them and about it in GMT +6:00 12:33 PM, and they later got banned at 12:46 pm. could've just been
+that ryan was an idiot and didn't see the whole vid first, BUT just in case
+
+# 782606256019079188:
+
+username: codecole
+
+reason: Nazi, slurs, homophobe
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364395288399446097
+
+notes: djinzi banned. cole creeped out the whole channel it seems. link: https://discord.com/channels/399812551963049995/983523474914045962/1364395232677986354
+
