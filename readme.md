@@ -1,3 +1,5 @@
+# i have not included all the bans here, just the ones i think were actually made sense to me. i may be wrong, then again, i'm only human
+
 # 1325146520709890068
 username: bopaya
 
