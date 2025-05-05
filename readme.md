@@ -223,3 +223,30 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364
 
 notes: djinzi banned. cole creeped out the whole channel it seems. link: https://discord.com/channels/399812551963049995/983523474914045962/1364395232677986354
 
+# 768727776323829790:
+
+reason: Sending slurs in videos
+
+notes: djinzi banned; can't find real vid, (yeah no shit sherlock it got removed. i need to sleep); link if interested:
+https://discord.com/channels/399812551963049995/667889924233625613/1364296464699883670
+
+# 1080516208908058675:
+
+username: omegaxz21
+
+banlik: https://discord.com/channels/399812551963049995/714531445154250772/1364151281098293311
+
+reason: Bigot
+
+notes: djinzi ban; can't seem to find chats for obvious reasons, but they did creep people out, cz user by `Arko` seemed
+to ping mods. link: https://discord.com/channels/399812551963049995/983523474914045962/1364147381490286652
+
+# 1236354729060077598:
+
+username: xxlucxx6458
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1363992808704442429
+
+notes: djinzi ban; more info: https://discord.com/channels/399812551963049995/983523474914045962/1363992785316745268
+
+
