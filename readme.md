@@ -161,6 +161,16 @@ notes: user only send 2 texts in server, got spawncamped later lol
 <details>
     <summary> bigot </summary> <!--{{{-->
 
+# 234753285418909706:
+
+username: 5cx
+
+reason: Bigot
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363928199091847411
+
+notes: can confirm; djinzi ban; more info link: https://discord.com/channels/399812551963049995/399812849318232095/1363928168326762677
+
 # 768727776323829790:
 
 reason: Sending slurs in videos
@@ -320,16 +330,6 @@ notes: djinzi ban; more info: https://discord.com/channels/399812551963049995/98
 </details> <!--}}}-->
 
 <!--}}}-->
-
-# 234753285418909706:
-
-username: 5cx
-
-reason: Bigot
-
-link: https://discord.com/channels/399812551963049995/714531445154250772/1363928199091847411
-
-notes: can confirm; djinzi ban; more info link: https://discord.com/channels/399812551963049995/399812849318232095/1363928168326762677
 
 # 1361394101873938553:
 
