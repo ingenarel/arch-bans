@@ -91,6 +91,18 @@ banned
 <details>
     <summary> help vampire </summary> <!--{{{-->
 
+# 1361394101873938553:
+
+username: asdadasda2222222sd
+
+reason: Help vampire. Read the wiki instead.
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363923458769027113
+
+notes: omg i saw the texts. even dracula would be like, "you need to chill out". constant pinging people, constant
+irritating behaviour, they would make the whole support team go mad in 2 minutes, more info:
+https://discord.com/channels/399812551963049995/1363863890517299350/1363910587456684515
+
 # 1331752799758843915:
 
 username: .killax.#0000
@@ -330,19 +342,6 @@ notes: djinzi ban; more info: https://discord.com/channels/399812551963049995/98
 </details> <!--}}}-->
 
 <!--}}}-->
-
-# 1361394101873938553:
-
-username: asdadasda2222222sd
-
-reason: Help vampire. Read the wiki instead.
-
-link: https://discord.com/channels/399812551963049995/714531445154250772/1363923458769027113
-
-notes: omg i saw the texts. even dracula would be like, "you need to chill out". constant pinging people, constant
-irritating behaviour, they would make the whole support team go mad in 2 minutes, more info:
-https://discord.com/channels/399812551963049995/1363863890517299350/1363910587456684515
-
 
 # 1363553312766689385:
 
