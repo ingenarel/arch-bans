@@ -284,6 +284,8 @@ that they just changed names, or crystal made a typo, altho permaban seems too h
 
 reason: Sending slurs in videos
 
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364296480378060944
+
 notes: djinzi banned; can't find real vid, (yeah no shit sherlock it got removed. i need to sleep); link if interested:
 https://discord.com/channels/399812551963049995/667889924233625613/1364296464699883670
 
