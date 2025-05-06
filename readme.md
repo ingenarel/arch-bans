@@ -6,7 +6,7 @@ of the time.
 people that are still in alc, or have alts, i would appriciate if i got extra help, since i'm an one man army
 
 <details> <!-- {{{ -->
-    <summary> homophobia <summary>
+    <summary> homophobia </summary>
 
 # 1163452353748418641:
 
