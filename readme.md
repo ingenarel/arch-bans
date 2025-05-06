@@ -111,7 +111,7 @@ was funnnnnyyyyyyyy
 </details> <!--}}}-->
 
 <details>
-    <summary> racism </summary>
+    <summary> racism </summary> <!--{{{-->
 
 # 1288493060761587714: 
 
@@ -124,7 +124,7 @@ reason: Racist
 notes: can't find shit for some reason, i even did a discord id lookup but the account seemed okay. still put it here
 just in case. double checking would be good, or just keep an eye if they pop in. epic username tho
 
-</details>
+</details>  <!--}}}-->
 
 <!--}}}-->
 
