@@ -153,6 +153,10 @@ serious reason.
 
 </details> <!-- }}} -->
 
+# scams/bots:
+
+<details>
+    <summary> scams </summary> <!--{{{-->
 
 # 712798779451113502:
 
@@ -163,6 +167,8 @@ reason: more steam gift card scams
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367598828932300982
 
 notes: banned by djinzi herself
+
+</details> <!--}}}-->
 
 # 1087208997662240830:
 
