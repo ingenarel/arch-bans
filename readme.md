@@ -67,9 +67,11 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367
 notes: didn't saw the message itself, but user only talked in lgbtq 15 times, while also asking "Can i ask you guys a
 question, not trying to be offensive. But why is the linux community on discord so lgbt focused?" might be a harmless
 question from a non-lgbtq person, but the combination with their ban reason, doesn't really go well.
-<!-- }}} -->
 
-    <summary> nsfw </summary>  <!-- {{{ -->
+</details> <!-- }}} -->
+
+# nsfw
+<details>
         <summary> dms </summary> <!-- {{{ -->
 
 # 1262109036006866945:
@@ -90,9 +92,13 @@ reason: unsolicited NSFW in someone elses dms
 
 notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal (two nsfw dm people caught by
 crystal in a row lmfao) user did seems normal from their recent convo, but in on msg, they said, "IT WAS A MISSINPUT
-MISSINPUT CALM DOWN", i assume they send something shady, and later deleted it. link: https://discord.com/channels/399812551963049995/983523474914045962/1366528889798656083
-        <!-- }}} -->
 
+
+MISSINPUT CALM DOWN", i assume they send something shady, and later deleted it. link: https://discord.com/channels/399812551963049995/983523474914045962/1366528889798656083
+
+</details> <!-- }}} -->
+        
+<details>
         <summary> server </summary> <!-- {{{ -->
 
 # 1358334109449191545:
@@ -127,8 +133,9 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367
 notes: they said, and i qoute: "i saw someone actually fuck a baconator from wendy's and i dont know how to feel. if
 it was Arby's i'd say "We got the meat""
 
- <!-- }}} -->
-    
+</details> <!-- }}} -->
+
+<details>
         <summary> pfp/bio </summary> <!-- {{{-->
 
 # 793822600006467594:
@@ -143,11 +150,9 @@ nots: seems like a new user that was getting help and wasn't disrupting shit, BU
 that permaban was harsh. since i couldn't find any records of a warning (yes i've seen mods give a warning first in case
 of situations like this, and yes i think a warning should be given first). but i still included cz djinzi might have a
 serious reason.
- <!-- }}}-->
 
-<!-- }}} -->
+</details> <!-- }}} -->
 
-</details>
 
 # 712798779451113502:
 
