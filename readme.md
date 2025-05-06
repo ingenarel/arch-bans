@@ -303,7 +303,9 @@ search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ti
 that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
 
 </details> <!--}}}-->
-<!--}}}-->
+
+<details>
+    <summary> bots </summary> <!--{{{-->
 
 # 1236354729060077598:
 
@@ -314,6 +316,10 @@ username: xxlucxx6458
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1363992808704442429
 
 notes: djinzi ban; more info: https://discord.com/channels/399812551963049995/983523474914045962/1363992785316745268
+
+</details> <!--}}}-->
+
+<!--}}}-->
 
 # 234753285418909706:
 
