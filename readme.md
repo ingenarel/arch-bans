@@ -57,8 +57,6 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364
 
 notes: djinzi banned. cole creeped out the whole channel it seems. link: https://discord.com/channels/399812551963049995/983523474914045962/1364395232677986354
 
-</details> <!-- }}} -->
-
 # 1325146520709890068
 username: bopaya
 
@@ -70,6 +68,7 @@ notes: didn't saw the message itself, but user only talked in lgbtq 15 times, wh
 question, not trying to be offensive. But why is the linux community on discord so lgbt focused?" might be a harmless
 question from a non-lgbtq person, but the combination with their ban reason, doesn't really go well.
 
+</details> <!-- }}} -->
 
 # 712798779451113502:
 
