@@ -210,6 +210,8 @@ that they just changed names, or crystal made a typo, altho permaban seems too h
 
 username: .killax.#0000
 
+reason: Help vampire
+
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366254870285516821
 
 notes: was banned by djinzi, buuut i mean i don't think they were a help vampire. yes i'm aware that user said this:
