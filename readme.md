@@ -168,20 +168,6 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367
 
 notes: banned by djinzi herself
 
-</details> <!--}}}-->
-
-# 1087208997662240830:
-
-name: com.reb
-
-reason: Salty + antipluralism, check xkcd 1357
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367585449953984553
-
-notes: user might just be a hot headed idiot, but djinzi muted them:
-https://discord.com/channels/399812551963049995/848349994082893884/1367577920163549214 for that reason, later got
-banned 
-
 # 1302084801720881276:
 
 name: cxcixx
@@ -200,6 +186,19 @@ notes: can't find chats. name shows unknown, if this is the same Wick that ik, i
 search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ticket, not someone named wick, could be
 that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
 
+</details> <!--}}}-->
+
+# 1087208997662240830:
+
+name: com.reb
+
+reason: Salty + antipluralism, check xkcd 1357
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367585449953984553
+
+notes: user might just be a hot headed idiot, but djinzi muted them:
+https://discord.com/channels/399812551963049995/848349994082893884/1367577920163549214 for that reason, later got
+banned 
 
 # 1331752799758843915:
 
