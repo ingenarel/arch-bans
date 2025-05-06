@@ -158,6 +158,31 @@ notes: user only send 2 texts in server, got spawncamped later lol
 
 </details> <!--}}}-->
 
+<details>
+    <summary> bigot </summary> <!--{{{-->
+
+# 768727776323829790:
+
+reason: Sending slurs in videos
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364296480378060944
+
+notes: djinzi banned; can't find real vid, (yeah no shit sherlock it got removed. i need to sleep); link if interested:
+https://discord.com/channels/399812551963049995/667889924233625613/1364296464699883670
+
+# 1080516208908058675:
+
+username: omegaxz21
+
+banlik: https://discord.com/channels/399812551963049995/714531445154250772/1364151281098293311
+
+reason: Bigot
+
+notes: djinzi ban; can't seem to find chats for obvious reasons, but they did creep people out, cz user by `Arko` seemed
+to ping mods. link: https://discord.com/channels/399812551963049995/983523474914045962/1364147381490286652
+
+</details>  <!--}}}-->
+
 <!--}}}-->
 
 # nsfw <!--{{{-->
@@ -279,26 +304,6 @@ that they just changed names, or crystal made a typo, altho permaban seems too h
 
 </details> <!--}}}-->
 <!--}}}-->
-
-# 768727776323829790:
-
-reason: Sending slurs in videos
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364296480378060944
-
-notes: djinzi banned; can't find real vid, (yeah no shit sherlock it got removed. i need to sleep); link if interested:
-https://discord.com/channels/399812551963049995/667889924233625613/1364296464699883670
-
-# 1080516208908058675:
-
-username: omegaxz21
-
-banlik: https://discord.com/channels/399812551963049995/714531445154250772/1364151281098293311
-
-reason: Bigot
-
-notes: djinzi ban; can't seem to find chats for obvious reasons, but they did creep people out, cz user by `Arko` seemed
-to ping mods. link: https://discord.com/channels/399812551963049995/983523474914045962/1364147381490286652
 
 # 1236354729060077598:
 
