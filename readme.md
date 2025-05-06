@@ -5,8 +5,8 @@ of the time.
 
 people that are still in alc, or have alts, i would appriciate if i got extra help, since i'm an one man army
 
-<details> <!-- {{{ -->
-    <summary> homophobia </summary>
+<details>
+    <summary> homophobia </summary> <!-- {{{ -->
 
 # 1163452353748418641:
 
@@ -67,8 +67,87 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367
 notes: didn't saw the message itself, but user only talked in lgbtq 15 times, while also asking "Can i ask you guys a
 question, not trying to be offensive. But why is the linux community on discord so lgbt focused?" might be a harmless
 question from a non-lgbtq person, but the combination with their ban reason, doesn't really go well.
+<!-- }}} -->
 
-</details> <!-- }}} -->
+    <summary> nsfw </summary>  <!-- {{{ -->
+        <summary> dms </summary> <!-- {{{ -->
+
+# 1262109036006866945:
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366838830962839764
+
+reason: clearly doesnt wanna cooperate. byebye. NSFW in dms of a user
+
+notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal
+
+# 479287530118840320:
+
+username: .shadownyx#0000
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366570332357525575
+
+reason: unsolicited NSFW in someone elses dms
+
+notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal (two nsfw dm people caught by
+crystal in a row lmfao) user did seems normal from their recent convo, but in on msg, they said, "IT WAS A MISSINPUT
+MISSINPUT CALM DOWN", i assume they send something shady, and later deleted it. link: https://discord.com/channels/399812551963049995/983523474914045962/1366528889798656083
+        <!-- }}} -->
+
+        <summary> server </summary> <!-- {{{ -->
+
+# 1358334109449191545:
+
+username: noxy23151213
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366064163767451728
+
+reason: NSFW troll (see 3377)
+
+notes: seems to done by crystal. couldn't find the texts, but it WAS done by crystal, soooo yeah ig. i would still
+personally recheck tho cz i haven't seen proof with my own to eyes. double checking would be good, or just keep an eye
+if they pop in
+
+# 785236207155937311:
+
+username: planetryan
+
+reason: Posted a scrolling tiktok video in ⁠urandom that contained nazi memes of george floyd superimposed onto hitler and also contained vague nsfw and antisemitism.
+
+notes: djinzi warned them and about it in GMT +6:00 12:33 PM, and they later got banned at 12:46 pm. could've just been
+that ryan was an idiot and didn't see the whole vid first, BUT just in case
+
+# 750259450039763074:
+
+username: realzoeygreen
+
+reason: Repeated warnings for violating rule 1a and still not improving
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367101553223274577
+
+notes: they said, and i qoute: "i saw someone actually fuck a baconator from wendy's and i dont know how to feel. if
+it was Arby's i'd say "We got the meat""
+
+ <!-- }}} -->
+    
+        <summary> pfp/bio </summary> <!-- {{{-->
+
+# 793822600006467594:
+
+username: kingjr4678
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364747554570633228
+
+reason: nsfw pfp/status
+
+nots: seems like a new user that was getting help and wasn't disrupting shit, BUT djinzi made the ban, altho i think
+that permaban was harsh. since i couldn't find any records of a warning (yes i've seen mods give a warning first in case
+of situations like this, and yes i think a warning should be given first). but i still included cz djinzi might have a
+serious reason.
+ <!-- }}}-->
+
+<!-- }}} -->
+
+</details>
 
 # 712798779451113502:
 
@@ -102,37 +181,6 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367
 
 notes: djinzi banned them
 
-# 750259450039763074:
-
-username: realzoeygreen
-
-reason: Repeated warnings for violating rule 1a and still not improving
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367101553223274577
-
-notes: they said, and i qoute: "i saw someone actually fuck a baconator from wendy's and i dont know how to feel. if
-it was Arby's i'd say "We got the meat""
-
-# 1262109036006866945:
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366838830962839764
-
-reason: clearly doesnt wanna cooperate. byebye. NSFW in dms of a user
-
-notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal
-
-# 479287530118840320:
-
-username: .shadownyx#0000
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366570332357525575
-
-reason: unsolicited NSFW in someone elses dms
-
-notes: seems to send servermates nsfw stuff in dms, was banned and muted by crystal (two nsfw dm people caught by
-crystal in a row lmfao) user did seems normal from their recent convo, but in on msg, they said, "IT WAS A MISSINPUT
-MISSINPUT CALM DOWN", i assume they send something shady, and later deleted it. link: https://discord.com/channels/399812551963049995/983523474914045962/1366528889798656083
-
 # 1365468507357319208:
 
 reason: Suspecious scam artist account according to Wick(if you are a real user, please contact @ⵣ Crystal ⵣ)
@@ -156,18 +204,6 @@ The Arch Installer server is dead asf
 
 could be just a rude idiot, buuut still permaban idk, still included it just in case user was a bitch. also i think it
 was funnnnnyyyyyyyy
-
-# 1358334109449191545:
-
-username: noxy23151213
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366064163767451728
-
-reason: NSFW troll (see 3377)
-
-notes: seems to done by crystal. couldn't find the texts, but it WAS done by crystal, soooo yeah ig. i would still
-personally recheck tho cz i haven't seen proof with my own to eyes. double checking would be good, or just keep an eye
-if they pop in
 
 # 1288493060761587714: 
 
@@ -206,28 +242,6 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365
 reason: troll+slurs in bio
 
 notes: user only send 2 texts in server, got spawncamped later lol
-
-# 793822600006467594:
-
-username: kingjr4678
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1364747554570633228
-
-reason: nsfw pfp/status
-
-nots: seems like a new user that was getting help and wasn't disrupting shit, BUT djinzi made the ban, altho i think
-that permaban was harsh. since i couldn't find any records of a warning (yes i've seen mods give a warning first in case
-of situations like this, and yes i think a warning should be given first). but i still included cz djinzi might have a
-serious reason.
-
-# 785236207155937311:
-
-username: planetryan
-
-reason: Posted a scrolling tiktok video in ⁠urandom that contained nazi memes of george floyd superimposed onto hitler and also contained vague nsfw and antisemitism.
-
-notes: djinzi warned them and about it in GMT +6:00 12:33 PM, and they later got banned at 12:46 pm. could've just been
-that ryan was an idiot and didn't see the whole vid first, BUT just in case
 
 # 768727776323829790:
 
