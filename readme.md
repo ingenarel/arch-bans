@@ -109,6 +109,23 @@ could be just a rude idiot, buuut still permaban idk, still included it just in 
 was funnnnnyyyyyyyy
 
 </details> <!--}}}-->
+
+<details>
+    <summary> racism </summary>
+
+# 1288493060761587714: 
+
+username: rizzler0913#0000
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365763036987785236
+
+reason: Racist
+
+notes: can't find shit for some reason, i even did a discord id lookup but the account seemed okay. still put it here
+just in case. double checking would be good, or just keep an eye if they pop in. epic username tho
+
+</details>
+
 <!--}}}-->
 
 # nsfw <!--{{{-->
@@ -230,17 +247,6 @@ that they just changed names, or crystal made a typo, altho permaban seems too h
 
 </details> <!--}}}-->
 <!--}}}-->
-
-# 1288493060761587714: 
-
-username: rizzler0913#0000
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1365763036987785236
-
-reason: Racist
-
-notes: can't find shit for some reason, i even did a discord id lookup but the account seemed okay. still put it here
-just in case. double checking would be good, or just keep an eye if they pop in. epic username tho
 
 # 366081970356224001:
 
