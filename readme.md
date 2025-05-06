@@ -5,7 +5,7 @@ of the time.
 
 people that are still in alc, or have alts, i would appriciate if i got extra help, since i'm an one man army
 
-# behaviour:
+# behaviour: <!--{{{-->
 <details>
     <summary> homophobia </summary> <!-- {{{ -->
 
@@ -109,8 +109,9 @@ could be just a rude idiot, buuut still permaban idk, still included it just in 
 was funnnnnyyyyyyyy
 
 </details> <!--}}}-->
+<!--}}}-->
 
-# nsfw
+# nsfw <!--{{{-->
 <details>
         <summary> dms </summary> <!-- {{{ -->
 
@@ -192,8 +193,9 @@ of situations like this, and yes i think a warning should be given first). but i
 serious reason.
 
 </details> <!-- }}} -->
+<!--}}}-->
 
-# scams/bots:
+# scams/bots: <!--{{{-->
 
 <details>
     <summary> scams </summary> <!--{{{-->
@@ -227,6 +229,7 @@ search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ti
 that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
 
 </details> <!--}}}-->
+<!--}}}-->
 
 # 1288493060761587714: 
 
