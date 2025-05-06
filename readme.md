@@ -307,6 +307,8 @@ that they just changed names, or crystal made a typo, altho permaban seems too h
 
 # 1236354729060077598:
 
+reason: spambot
+
 username: xxlucxx6458
 
 banlink: https://discord.com/channels/399812551963049995/714531445154250772/1363992808704442429
