@@ -86,6 +86,17 @@ notes: user might just be a hot headed idiot, but djinzi muted them:
 https://discord.com/channels/399812551963049995/848349994082893884/1367577920163549214 for that reason, later got
 banned 
 
+# 1363553312766689385:
+
+username: williamleonard637_99998
+
+reason: Ignoring the rules / spamming inappropriate content.
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363842004735234168
+
+notes: gravitos ban, user seems to have texted shitty stuff, so user by `Arko` seemed to have pinged mods, then ban.
+more info: https://discord.com/channels/399812551963049995/983523474914045962/1363842003204575423
+
 </details> <!--}}}-->
 
 <details>
@@ -296,6 +307,17 @@ serious reason.
 <details>
     <summary> scams </summary> <!--{{{-->
 
+# 1316034076901244931:
+
+username: adam_john_tressing
+
+link: https://discord.com/channels/399812551963049995/714531445154250772/1363688935439601725
+
+reason: spam/advertising weird shit
+
+notes: seems to have creeped people out, including `wasd` and `jorgen_10`. more info:
+https://discord.com/channels/399812551963049995/399812849318232095/1363688896344363019
+
 # 712798779451113502:
 
 username: estebanipro#0000
@@ -339,21 +361,6 @@ banlink: https://discord.com/channels/399812551963049995/714531445154250772/1363
 
 notes: djinzi ban; more info: https://discord.com/channels/399812551963049995/983523474914045962/1363992785316745268
 
-</details> <!--}}}-->
-
-<!--}}}-->
-
-# 1363553312766689385:
-
-username: williamleonard637_99998
-
-reason: Ignoring the rules / spamming inappropriate content.
-
-link: https://discord.com/channels/399812551963049995/714531445154250772/1363842004735234168
-
-notes: gravitos ban, user seems to have texted shitty stuff, so user by `Arko` seemed to have pinged mods, then ban.
-more info: https://discord.com/channels/399812551963049995/983523474914045962/1363842003204575423
-
 # 663576630945513493:
 
 username: wosoy
@@ -366,13 +373,6 @@ channels at the same time, did not elaborate when questioned.
 notes: can't find chats, but i'll be dammed if they ain't a bot, altho i did a id lookup, and it shows that they weren't
 flagged as a bot or a spammer yet. moreinfo: https://discordlookup.com/user/663576630945513493
 
-# 1316034076901244931:
+</details> <!--}}}-->
 
-username: adam_john_tressing
-
-link: https://discord.com/channels/399812551963049995/714531445154250772/1363688935439601725
-
-reason: spam/advertising weird shit
-
-notes: seems to have creeped people out, including `wasd` and `jorgen_10`. more info:
-https://discord.com/channels/399812551963049995/399812849318232095/1363688896344363019
+<!--}}}-->
