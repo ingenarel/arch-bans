@@ -5,6 +5,7 @@ of the time.
 
 people that are still in alc, or have alts, i would appriciate if i got extra help, since i'm an one man army
 
+# behaviour:
 <details>
     <summary> homophobia </summary> <!-- {{{ -->
 
@@ -69,6 +70,23 @@ question, not trying to be offensive. But why is the linux community on discord 
 question from a non-lgbtq person, but the combination with their ban reason, doesn't really go well.
 
 </details> <!-- }}} -->
+
+<details>
+    <summary> general bad behaviour </summary> <!--{{{-->
+
+# 1087208997662240830:
+
+name: com.reb
+
+reason: Salty + antipluralism, check xkcd 1357
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367585449953984553
+
+notes: user might just be a hot headed idiot, but djinzi muted them:
+https://discord.com/channels/399812551963049995/848349994082893884/1367577920163549214 for that reason, later got
+banned 
+
+</details> <!--}}}-->
 
 # nsfw
 <details>
@@ -187,18 +205,6 @@ search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ti
 that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
 
 </details> <!--}}}-->
-
-# 1087208997662240830:
-
-name: com.reb
-
-reason: Salty + antipluralism, check xkcd 1357
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1367585449953984553
-
-notes: user might just be a hot headed idiot, but djinzi muted them:
-https://discord.com/channels/399812551963049995/848349994082893884/1367577920163549214 for that reason, later got
-banned 
 
 # 1331752799758843915:
 
