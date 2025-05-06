@@ -111,6 +111,18 @@ more info: https://discord.com/channels/399812551963049995/983523474914045962/13
 <details>
     <summary> help vampire </summary> <!--{{{-->
 
+# 1168888026215239722
+
+username: cat_the_hat
+
+reason: Persistent help vampirism, trying to sell scripts, lying about their age, continued misbehaviour despite
+moderators issuing corrections and warnings
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1361860113916493865
+
+notes: really weird person. more info:
+https://discord.com/channels/399812551963049995/848349994082893884/1361847322195001484
+
 # 1361394101873938553:
 
 username: asdadasda2222222sd
@@ -235,6 +247,32 @@ notes: djinzi ban; can't seem to find chats for obvious reasons, but they did cr
 to ping mods. link: https://discord.com/channels/399812551963049995/983523474914045962/1364147381490286652
 
 </details>  <!--}}}-->
+
+<details>
+    <summary> drake/edp/dr disrespect (ifykyk) </summary>  <!--{{{-->
+
+# 1068112548156690493: 
+
+username: cayromx4
+
+reason: pedophilia
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1362029028713959525
+
+notes: more info: https://discord.com/channels/399812551963049995/399812849318232095/1362029002155491410
+
+# 1320066253456412786:
+
+username: mrequin0
+
+reason: Rule 1a by making pedophilia jokes in ⁠not-linux. Get the hell out of here with that shit.
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1361930521273307267
+
+notes: how much of an idiot do you have to be to make that level of dark jokes in a public server? more info:
+https://discord.com/channels/399812551963049995/399812849318232095/1361927870393356400
+
+</details> <!--}}}-->
 
 <!--}}}-->
 
