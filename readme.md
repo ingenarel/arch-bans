@@ -9,6 +9,15 @@ people that are still in alc, or have alts, i would appriciate if i got extra he
 <details>
     <summary> homophobia </summary> <!-- {{{ -->
 
+# 938037450314485771:
+
+reason: troll
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1362425065035137246
+
+notes: user seems to be a homophobe, more info:
+https://discord.com/channels/399812551963049995/848349994082893884/1362424520576860351
+
 # 1163452353748418641:
 
 username: amking23_55255
@@ -135,6 +144,17 @@ was funnnnnyyyyyyyy
 
 <details>
     <summary> racism </summary> <!--{{{-->
+
+# 1245465102308741281:
+
+name: 1903200601091999
+
+reason: Racism
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1362208333058019518
+
+notes: couldn't find actual texts, but another users was like, "GUHHH??" in chat soo yeah. more info:
+https://discord.com/channels/399812551963049995/848349994082893884/1362208277265514687
 
 # 1288493060761587714: 
 
