@@ -88,6 +88,28 @@ banned
 
 </details> <!--}}}-->
 
+<details>
+    <summary> help vampire </summary> <!--{{{-->
+
+# 1331752799758843915:
+
+username: .killax.#0000
+
+reason: Help vampire
+
+banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366254870285516821
+
+notes: was banned by djinzi, buuut i mean i don't think they were a help vampire. yes i'm aware that user said this:
+```
+I did, now either help or shut up -_-
+The Arch Installer server is dead asf
+```
+
+could be just a rude idiot, buuut still permaban idk, still included it just in case user was a bitch. also i think it
+was funnnnnyyyyyyyy
+
+</details> <!--}}}-->
+
 # nsfw
 <details>
         <summary> dms </summary> <!-- {{{ -->
@@ -205,23 +227,6 @@ search april 29, 2025 chatlogs, Wilbur (thiscatlikescrypto) seems to open the ti
 that they just changed names, or crystal made a typo, altho permaban seems too hars, but meh thought i should include it
 
 </details> <!--}}}-->
-
-# 1331752799758843915:
-
-username: .killax.#0000
-
-reason: Help vampire
-
-banlink: https://discord.com/channels/399812551963049995/714531445154250772/1366254870285516821
-
-notes: was banned by djinzi, buuut i mean i don't think they were a help vampire. yes i'm aware that user said this:
-```
-I did, now either help or shut up -_-
-The Arch Installer server is dead asf
-```
-
-could be just a rude idiot, buuut still permaban idk, still included it just in case user was a bitch. also i think it
-was funnnnnyyyyyyyy
 
 # 1288493060761587714: 
 
